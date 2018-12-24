@@ -1,0 +1,3 @@
+[submodule "DiceApp"]
+	path = DiceApp
+	url = https://github.com/AnandraSingh/DiceApp.git
