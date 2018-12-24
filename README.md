@@ -1,2 +1,4 @@
 # Android_Portfolio
-Some mine Android Projects
+My Android Application Developer Portfolio with Projects and stuffs!
+
+
